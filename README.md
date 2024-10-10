@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning SE.
-- 🤔 I’m looking for help with WinUI3.
+- 草泥马的Github
